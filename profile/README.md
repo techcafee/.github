@@ -1,5 +1,5 @@
 <div align="center" dir="rtl">
-    <img src="https://github.com/techcafee/.github/raw/main/intro.gif" alt="intro"/>
+    <img src="https://github.com/techcafee/.github/raw/main/profile/intro.gif" alt="intro"/>
     <h1>به کافه تک خوش آمدید!</h1>
     <p>جایی که ایده ها به حقیقت می پیوندد...</p>
     <a href="">کانال تلگرام ما</a><br>
@@ -7,4 +7,3 @@
     
   <br>
 </div>
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
