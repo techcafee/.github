@@ -4,5 +4,7 @@
     <p>جایی که ایده ها به حقیقت می پیوندد...</p>
     <a href="">کانال تلگرام ما</a><br>
     <a href="">لینک های ما</a><br>
-    <a href="">ما را حمایت کنید!</a><br>
+    
+  <br>
 </div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
