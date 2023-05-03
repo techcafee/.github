@@ -5,7 +5,7 @@
     <br>
     <br>
     <h1></h1>
-    <h3>ما توی کافه تِک قصد داریم تا با دورهمی‌هاو وبینار‌هایی که برگزار می‌کنیم به برنامه‌‌نویس‌‌ها<br>
+    <h3>ما توی کافه تِک قصد داریم تا با دورهمی‌ها و وبینار‌هایی که برگزار می‌کنیم به برنامه‌‌نویس‌‌ها<br>
 کمک کنیم تا در فضای دوستانه به انتقال تجربه و ارتباط سازی بپردازند.</h3><br>
     <p href="">راه های ارتباطی : </p><br>
     <a href="https://www.linkedin.com/company/tech-cafee"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="icon"/>
